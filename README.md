@@ -81,8 +81,8 @@ JWT_SECRET="your_secret_key"
 PORT=4000
 
 Run Prisma migrations (to create tables in MySQL):
-npx prisma migrate dev --name init
+--> npx prisma migrate dev --name init
 
 
 Start backend server:
-node index.js
+--> node index.js
