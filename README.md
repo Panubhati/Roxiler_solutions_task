@@ -51,6 +51,12 @@ This project was developed as part of the **Roxiler Solutions Fullstack Intern C
 - **Styling:** CSS (custom)  
 
 ---
+### 🛡️ Validations
+
+Name: 20–60 characters
+Address: Max 400 characters
+Password: 8–16 characters, at least 1 uppercase, 1 special char
+Email: Must be valid format
 
 ## ⚙️ Installation & Setup Guide
 
@@ -182,3 +188,8 @@ roxiler-solution-task/
 ### 🎥 Full Application Demo
 Watch the **full application demo** here:  
 [Full App Demo Video](https://drive.google.com/file/d/1JeFM7Ec0jeIOHkutbwkLc8saLchIKLI0/view?usp=drive_link)
+
+
+### 👨‍💻 Author
+Pranav Bhatikare
+📧 Email: pranavbhatikare9226@gmail.com
