@@ -150,4 +150,7 @@ roxiler-solution-task/
 │   └── package.json
 │
 └── README.md                 # Project documentation
+```
 
+
+### 📸 Screenshots
