@@ -191,5 +191,7 @@ Watch the **full application demo** here:
 
 
 ### 👨‍💻 Author
+
 Pranav Bhatikare
+
 Email: pranavbhatikare9226@gmail.com
