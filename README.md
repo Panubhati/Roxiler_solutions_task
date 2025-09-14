@@ -44,7 +44,7 @@ This project was developed as part of the **Roxiler Solutions Fullstack Intern C
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (Vite), React Router, Axios, Context API  
+- **Frontend:** React.js (Vite), React Router, Axios, Context API  
 - **Backend:** Node.js, Express.js  
 - **Database:** MySQL with Prisma ORM  
 - **Authentication:** JWT (JSON Web Tokens), bcrypt for password hashing  
