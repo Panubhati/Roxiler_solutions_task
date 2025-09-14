@@ -103,3 +103,51 @@ npm run dev
 Frontend will run on: http://localhost:5173
 
 ```
+### 📂 Project Structure
+```bash
+roxiler-solution-task/
+│
+│── backend/                  # Node.js + Express + Prisma backend
+│   ├── prisma/               
+│   │   ├── migrations/       # Database migrations
+│   │   └── schema.prisma     # Prisma schema
+│   │
+│   ├── src/
+│   │   ├── controllers/      # Controllers (business logic)
+│   │   │   ├── adminController.js
+│   │   │   ├── authController.js
+│   │   │   ├── storeController.js
+│   │   │   └── storeOwnerController.js
+│   │   │
+│   │   ├── middlewares/      # Middleware (auth, validation)
+│   │   │   └── auth.js
+│   │   │
+│   │   └── routes/           # API routes
+│   │       ├── admin.js
+│   │       ├── auth.js
+│   │       └── store.js
+│   │
+│   ├── .env                  # Environment variables
+│   ├── index.js              # Backend entry point
+│   ├── prismaClient.js       # Prisma client instance
+│   └── package.json
+│
+│── frontend/                 # React + Vite frontend
+│   ├── src/
+│   │   ├── assets/           # Static assets (images, logos, etc.)
+│   │   ├── components/       # Reusable components
+│   │   ├── context/          # AuthContext (role-based auth)
+│   │   └── pages/            # Page-level components
+│   │       ├── Login.jsx / Login.css
+│   │       ├── Signup.jsx
+│   │       ├── AdminDashboard.jsx / AdminDashboard.css
+│   │       ├── StoreOwnerDashboard.jsx / StoreOwnerDashboard.css
+│   │       └── UserDashboard.jsx / UserDashboard.css
+│   │
+│   ├── App.jsx / App.css     # Main App component
+│   ├── main.jsx              # Vite entry point
+│   ├── index.css             # Global styles
+│   └── package.json
+│
+└── README.md                 # Project documentation
+
