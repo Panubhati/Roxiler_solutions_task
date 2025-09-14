@@ -726,13 +726,6 @@ export default function AdminDashboard() {
                 <li>Fields marked with * are required</li>
                 <li>Owner password must be at least 6 characters long</li>
               </ul>
-              
-              <div className="example-box">
-                <h5>Example:</h5>
-                <p><strong>Store:</strong> "Tech World" (techworld@example.com)</p>
-                <p><strong>Owner:</strong> "John Smith" (john.smith@email.com)</p>
-                <p>John can login with john.smith@email.com and manage only "Tech World"</p>
-              </div>
             </div>
           </div>
         </div>
