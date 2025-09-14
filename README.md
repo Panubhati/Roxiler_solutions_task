@@ -154,3 +154,27 @@ roxiler-solution-task/
 
 
 ### 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](./frontend/screenshots/login.png)
+
+### 📄 Sign Up (Normal User)
+![Sign Up](./frontend/screenshots/signup(normal user).png)
+
+### 🛠 Admin Dashboard
+![Admin Dashboard](./frontend/screenshots/AdminDashboard.png)
+
+### ➕ Admin Add Admin
+![Add Admin](./frontend/screenshots/Admin(add admin).png)
+
+### ➕ Admin Add Store
+![Add Store](./frontend/screenshots/Admin(add store).png)
+
+### 🏬 Admin Store Info
+![Store Info](./frontend/screenshots/Admin(storem info).png)
+
+### 🏬 Store Owner Dashboard
+![Store Owner Dashboard](./frontend/screenshots/store dashboard.png)
+
+### 👤 User Dashboard
+![User Dashboard](./frontend/screenshots/User dashboard.png)
