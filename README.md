@@ -113,7 +113,7 @@ roxiler-solution-task/
 │   │   └── schema.prisma     # Prisma schema
 │   │
 │   ├── src/
-│   │   ├── controllers/      # Controllers (business logic)
+│   │   ├── controllers/      # Controllers 
 │   │   │   ├── adminController.js
 │   │   │   ├── authController.js
 │   │   │   ├── storeController.js
