@@ -60,3 +60,13 @@ Follow these steps to run the project locally 👇
 ```bash
 git clone https://github.com/Panubhati/Roxiler_solutions_task.git
 cd Roxiler_solutions_task
+```
+
+###2️⃣ Setup Backend
+```bash
+Go into backend folder:
+cd backend
+
+Install dependencies:
+npm install
+
