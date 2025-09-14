@@ -61,8 +61,7 @@ Follow these steps to run the project locally 👇
 git clone https://github.com/Panubhati/Roxiler_solutions_task.git
 cd Roxiler_solutions_task
 ```
-
-###2️⃣ Setup Backend
+### 2️⃣ Setup Backend
 ```bash
 Go into backend folder:
 cd backend
