@@ -48,7 +48,7 @@ This project was developed as part of the **Roxiler Solutions Fullstack Intern C
 - **Backend:** Node.js, Express.js  
 - **Database:** MySQL with Prisma ORM  
 - **Authentication:** JWT (JSON Web Tokens), bcrypt for password hashing  
-- **Styling:** CSS (custom, no Tailwind)  
+- **Styling:** CSS (custom)  
 
 ---
 
