@@ -178,3 +178,7 @@ roxiler-solution-task/
 
 ### 👤 User Dashboard
 ![User Dashboard](./frontend/screenshots/Userdashboard.png)
+
+### 🎥 Full Application Demo
+Watch the **full application demo** here:  
+[Full App Demo Video](https://drive.google.com/file/d/1JeFM7Ec0jeIOHkutbwkLc8saLchIKLI0/view?usp=drive_link)
