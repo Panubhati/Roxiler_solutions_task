@@ -69,3 +69,13 @@ cd backend
 Install dependencies:
 npm install
 
+Create .env file inside backend/ with the following structure:
+
+# Database connection
+DATABASE_URL="mysql://root:password@localhost:3306/roxilerdb"
+
+# JWT secret key
+JWT_SECRET="your_secret_key"
+
+# Server port
+PORT=4000
