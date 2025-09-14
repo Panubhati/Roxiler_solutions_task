@@ -58,5 +58,5 @@ Follow these steps to run the project locally 👇
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Panubhati/Roxiler_solutions_task.git
+cd Roxiler_solutions_task
