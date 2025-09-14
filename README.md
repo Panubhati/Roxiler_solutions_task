@@ -165,7 +165,7 @@ roxiler-solution-task/
 ![Admin Dashboard](./frontend/screenshots/AdminDashboard.png)
 
 ### ➕ Admin Add Admin
-![Add Admin](./frontend/screenshots/Admin(addadmin).png)
+![Add Admin](./frontend/screenshots/Admin(addadmin.p)ng)
 
 ### ➕ Admin Add Store
 ![Add Store](./frontend/screenshots/Admin(addstore).png)
