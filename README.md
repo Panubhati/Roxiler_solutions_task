@@ -159,22 +159,22 @@ roxiler-solution-task/
 ![Login Page](./frontend/screenshots/login.png)
 
 ### 📄 Sign Up (Normal User)
-![Sign Up](./frontend/screenshots/signup(normal user).png)
+![Sign Up](./frontend/screenshots/signup(normaluser).png)
 
 ### 🛠 Admin Dashboard
 ![Admin Dashboard](./frontend/screenshots/AdminDashboard.png)
 
 ### ➕ Admin Add Admin
-![Add Admin](./frontend/screenshots/Admin(add admin).png)
+![Add Admin](./frontend/screenshots/Admin(addadmin).png)
 
 ### ➕ Admin Add Store
-![Add Store](./frontend/screenshots/Admin(add store).png)
+![Add Store](./frontend/screenshots/Admin(addstore).png)
 
 ### 🏬 Admin Store Info
-![Store Info](./frontend/screenshots/Admin(storem info).png)
+![Store Info](./frontend/screenshots/Admin(storeminfo).png)
 
 ### 🏬 Store Owner Dashboard
-![Store Owner Dashboard](./frontend/screenshots/store dashboard.png)
+![Store Owner Dashboard](./frontend/screenshots/storedashboard.png)
 
 ### 👤 User Dashboard
-![User Dashboard](./frontend/screenshots/User dashboard.png)
+![User Dashboard](./frontend/screenshots/Userdashboard.png)
