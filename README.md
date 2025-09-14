@@ -86,3 +86,20 @@ Run Prisma migrations (to create tables in MySQL):
 
 Start backend server:
 --> node index.js
+
+Backend will run on: http://localhost:4000
+```
+### 3️⃣ Setup Frontend
+```bash
+Go into frontend folder:
+cd frontend
+
+Install dependencies:
+npm install
+
+Start frontend server:
+npm run dev
+
+Frontend will run on: http://localhost:5173
+
+```
