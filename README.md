@@ -1,6 +1,6 @@
 # 🏪 Store Rating Platform
 
-A **Full-Stack Role-Based Store Rating Platform** built with **React + Node.js + Express + MySQL (Prisma ORM)**.  
+A **Full-Stack Role-Based Store Rating Platform** built with **React + Node.js + Express + MySQL**.  
 This project was developed as part of the **Roxiler Solutions Fullstack Intern Challenge**.
 
 ---
@@ -177,7 +177,7 @@ roxiler-solution-task/
 ![Add Store](./frontend/screenshots/Admin(addstore).png)
 
 ### 🏬 Admin Store Info
-![Store Info](./frontend/screenshots/Admin(storeminfo).png)
+![Store Info](./frontend/screenshots/Admin(storeinfo).png)
 
 ### 🏬 Store Owner Dashboard
 ![Store Owner Dashboard](./frontend/screenshots/storedashboard.png)
